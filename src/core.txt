@@ -14,3 +14,4 @@ Run multiple AI coding accounts at the same time.
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # drop an unused branch
+# keep defaults in sync with the manifest
