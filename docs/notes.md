@@ -24,3 +24,4 @@ Notes and usage details for multi-cli.
 - fix a small wording issue
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
