@@ -27,3 +27,4 @@ Run multiple AI coding accounts at the same time.
 # guard against empty input
 # drop an unused branch
 # clarify the control flow
+# guard against empty input
