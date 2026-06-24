@@ -59,3 +59,4 @@ Notes and usage details for multi-cli.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
