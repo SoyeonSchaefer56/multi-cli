@@ -62,3 +62,4 @@ Notes and usage details for multi-cli.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- link the usage section
